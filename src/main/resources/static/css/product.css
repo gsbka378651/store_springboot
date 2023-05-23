@@ -47,7 +47,7 @@ main{
 .num-text {
 	text-align: center;
 }
-.btn-add-to-cart{
+.btn-add-to-cart, .btn-add-to-cart-login{
 	width: 360px;
     height: 45px;
     font-size: 20px;
@@ -56,7 +56,7 @@ main{
 	background-color: #000;
     color: #FFF;
 }
-.btn-add-to-cart:hover{
+.btn-add-to-cart:hover, .btn-add-to-cart-login:hover{
 	transition: .4s;
     background-color: #FFF;
     color: #000;

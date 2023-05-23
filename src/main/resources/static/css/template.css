@@ -47,6 +47,7 @@ body{
 	right: 38px;
 	bottom: 17px;
 	font-size: 13px;
+	font-weight: lighter;
 	color: #fff;
 }
 .login_title::after{
@@ -55,6 +56,7 @@ body{
 	right: 33px;
 	bottom: 17px;
 	font-size: 13px;
+	font-weight: lighter;
 	color: #fff;
 }
 .orderinfo_title::after{
@@ -63,6 +65,7 @@ body{
 	right: 33px;
 	bottom: 17px;
 	font-size: 13px;
+	font-weight: lighter;
 	color: #fff;
 }
 .logout{

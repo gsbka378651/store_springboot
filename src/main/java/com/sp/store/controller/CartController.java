@@ -26,6 +26,7 @@ public class CartController extends BaseController{
                 pid,
                 amount,
                 getUsernameSession(session));
+        System.out.println(getUidFromSession(session));
         return new JsonResult<>(OK);
     }
 
